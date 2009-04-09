@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Gravatar Shortcode
-Plugin URI: http://www.dentedreality.com.au/projects/wp-plugin-gravatar-shortcode/
+Plugin URI: http://dentedreality.com.au/projects/wp-plugin-gravatar-shortcode/
 Description: Adds a [shortcode] that you can use in Posts or Pages to embed a gravatar via entering an email address. Use email="email@domain.com" and size="60" plus other HTML attributes applied to the output IMG tag.
 Author: Beau Lebens
 Version: 1.0

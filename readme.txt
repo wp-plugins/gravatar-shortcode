@@ -2,7 +2,7 @@
 Contributors: beaulebens
 Tags: shortcode, gravatar, avatar
 Requires at least: 2.5
-Tested up to: 2.6.3
+Tested up to: 2.7.1
 Stable tag: trunk
 Donate link: http://dentedreality.com.au
 
@@ -22,7 +22,9 @@ Allows you to use a shortcode in your Posts and Pages to embed a Gravatar quickl
 
 
 == Options ==
-In addition to email=”", you can also include the following attributes within the shortcode for extra formatting etc:
+In addition to email="", you can also include the following attributes within the shortcode for extra formatting etc:
+
+See http://dentedreality.com.au/projects/wp-plugin-gravatar-shortcode/ for more examples.
 
 * email: the email address to display the Gravatar for
 * size: a number (e.g. 60) representing the pixel size of the Gravatar to display (they are square)
