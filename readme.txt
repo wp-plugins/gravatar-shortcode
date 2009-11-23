@@ -2,24 +2,19 @@
 Contributors: beaulebens
 Tags: shortcode, gravatar, avatar
 Requires at least: 2.5
-Tested up to: 2.7.1
+Tested up to: 2.9
 Stable tag: trunk
 Donate link: http://dentedreality.com.au
 
 Allows you to use a shortcode in your Posts and Pages to embed a Gravatar quickly and easily just using an email address.
 
-
 == Description ==
-
 Allows you to use a shortcode in your Posts and Pages to embed a Gravatar quickly and easily just using an email address.
 
-
 == Installation ==
-
 1. Unzip and upload `/wp-gravatar-shortcode/` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Use the [gravatar] shortcode in a Post or Page
-
 
 == Options ==
 In addition to email="", you can also include the following attributes within the shortcode for extra formatting etc:
