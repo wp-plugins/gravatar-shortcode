@@ -32,3 +32,11 @@ See http://dentedreality.com.au/projects/wp-plugin-gravatar-shortcode/ for more 
 * class: add a class to the img tag
 * id: add an id to the img tag for specific styling/DOM manipulation.
 * border: adjust the border attribute for the img
+
+== Changelog ==
+1.1
+* Actually make use of the "default" option, props Jonathan C
+* Change default size to 80, to match Gravatar's internal default
+
+1.0
+* Initial Release
