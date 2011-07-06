@@ -2,7 +2,7 @@
 Contributors: beaulebens
 Tags: shortcode, gravatar, avatar
 Requires at least: 2.5
-Tested up to: 2.9
+Tested up to: 3.2
 Stable tag: trunk
 Donate link: http://dentedreality.com.au
 
