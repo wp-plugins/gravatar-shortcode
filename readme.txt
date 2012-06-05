@@ -2,7 +2,7 @@
 Contributors: beaulebens
 Tags: shortcode, gravatar, avatar
 Requires at least: 2.5
-Tested up to: 3.2
+Tested up to: 3.4
 Stable tag: trunk
 Donate link: http://dentedreality.com.au
 
@@ -34,6 +34,9 @@ See http://dentedreality.com.au/projects/wp-plugin-gravatar-shortcode/ for more 
 * border: adjust the border attribute for the img
 
 == Changelog ==
+1.2
+* Escape attributes, props batmoo
+
 1.1
 * Actually make use of the "default" option, props Jonathan C
 * Change default size to 80, to match Gravatar's internal default
